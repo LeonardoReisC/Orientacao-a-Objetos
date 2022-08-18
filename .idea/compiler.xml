@@ -6,9 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Maven_22_06" />
-        <module name="Maven_28_06" />
+        <module name="_06_22_" />
+        <module name="_08_03_" />
+        <module name="_06_28_" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_06_22_" target="1.7" />
+      <module name="_06_28_" target="1.7" />
+      <module name="_08_03" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>

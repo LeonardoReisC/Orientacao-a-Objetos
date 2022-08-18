@@ -6,10 +6,19 @@
       <list>
         <option value="$PROJECT_DIR$/Maven_22_06/pom.xml" />
         <option value="$PROJECT_DIR$/Maven_28_06/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven_02_08/pom.xml" />
+        <option value="$PROJECT_DIR$/_08_02/pom.xml" />
+        <option value="$PROJECT_DIR$/_08_03_/pom.xml" />
+        <option value="$PROJECT_DIR$/_08_02_/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/_08_02/_08_03/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
